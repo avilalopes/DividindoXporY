@@ -1,0 +1,16 @@
+D:\git\DividindoXporY\bin\Debug\net5.0\DividindoXporY.exe
+D:\git\DividindoXporY\bin\Debug\net5.0\DividindoXporY.deps.json
+D:\git\DividindoXporY\bin\Debug\net5.0\DividindoXporY.runtimeconfig.json
+D:\git\DividindoXporY\bin\Debug\net5.0\DividindoXporY.runtimeconfig.dev.json
+D:\git\DividindoXporY\bin\Debug\net5.0\DividindoXporY.dll
+D:\git\DividindoXporY\bin\Debug\net5.0\ref\DividindoXporY.dll
+D:\git\DividindoXporY\bin\Debug\net5.0\DividindoXporY.pdb
+D:\git\DividindoXporY\obj\Debug\net5.0\DividindoXporY.csprojAssemblyReference.cache
+D:\git\DividindoXporY\obj\Debug\net5.0\DividindoXporY.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\DividindoXporY\obj\Debug\net5.0\DividindoXporY.AssemblyInfoInputs.cache
+D:\git\DividindoXporY\obj\Debug\net5.0\DividindoXporY.AssemblyInfo.cs
+D:\git\DividindoXporY\obj\Debug\net5.0\DividindoXporY.csproj.CoreCompileInputs.cache
+D:\git\DividindoXporY\obj\Debug\net5.0\DividindoXporY.dll
+D:\git\DividindoXporY\obj\Debug\net5.0\ref\DividindoXporY.dll
+D:\git\DividindoXporY\obj\Debug\net5.0\DividindoXporY.pdb
+D:\git\DividindoXporY\obj\Debug\net5.0\DividindoXporY.genruntimeconfig.cache
